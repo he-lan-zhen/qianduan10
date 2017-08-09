@@ -1,0 +1,9 @@
+ul li {
+  float: left;
+  list-style: none;
+  border: 1px solid red;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
